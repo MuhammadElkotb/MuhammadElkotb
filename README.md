@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Kotb</h1>
 <h3 align="center">A Software Engineer. Loves C/C++ and Web development using Java + Spring. Python for simplicity</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadelkotb&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadelkotb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadelkotb" alt="muhammadelkotb" /></a> </p>
 
